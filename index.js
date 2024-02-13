@@ -1,2 +1,2 @@
 console.log("hello world")
-console.log("version 05")
+console.log("version 06")
